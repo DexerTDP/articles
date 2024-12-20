@@ -1,4 +1,4 @@
 # Articles
-This repository hosts a collection of articles published monthly that range of varity of topics from my point of view. Each article is uploaded during the month for easy access and reference.
+This repo will host published monthly articles that I'll write based on my own life prespective. It'll be sorted with time for archival reference.
 
 Happy lurking.
