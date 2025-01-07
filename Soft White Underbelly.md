@@ -54,4 +54,5 @@ Factory when he took portraits and videos of his subjects. The
 difference is mark humanizes his subjects by letting their voice being
 out there, for better or for worse.
 
-Take Care, Dexer
+Take Care, 
+Dexer
