@@ -48,6 +48,8 @@ If you brag, people bitch. If you don't, people bitch. Nature of social
 media to focus on the outskirts instead of the overall picture. Its
 something that I'll learn to come to grips with.
 
+Will there be another video? I don't think so but never say never, life is unpredictable. 
+
 As for what I think of Mark and what he does with the channel. Honestly,
 its the modern take of what Warhol did back in the 60s in his studio The
 Factory when he took portraits and videos of his subjects. The
