@@ -1,9 +1,9 @@
-#Soft White Underbelly
+# Soft White Underbelly
 
-\*I\'ll be posting your video tomorrow morning\*
+_I will be posting your video tomorrow morning_
 
 To be honest, it was something I never thought it would happen, frankly.
-I didn\'t think I had anything to contribute. But then I reminded myself
+I didn't think I had anything to contribute. But then I reminded myself
 of the reason why I made the choice for my story to be out there when I
 gave an interview to CyberNews back in October 2024. A chance to just
 let out my voice out there and for my story to help at least one.
@@ -26,11 +26,11 @@ I remember afterwards talking to somebody who were practically the only
 one in full that knew why I did it and the risks I was taking. Their
 reply
 
-\*\"you took a great risk in doing this. Not many would because of how
-we are. In fact most aren\'t going to receive it well. But I\'m glad you
+**"you took a great risk in doing this. Not many would because of how
+we are. In fact most aren't going to receive it well. But I'm glad you
 did so as frankly not many outside of us understand what living as a
-hacker is or the burdens we carry. You\'re retired, many of us are still
-at it.\"\*
+hacker is or the burdens we carry. You're retired, many of us are still
+at it."**
 
 The interview itself I look at it as an extension of the interview I
 gave to cybernews, the difference is that you are hearing it out of my
@@ -40,13 +40,13 @@ Will it matter or will people care?
 
 I am under no expectations, if anything I was prepared for the
 criticisms and the negativity that comes from this. Although I find it
-quite funny many worry about \"legit\" yet what they don\'t know is what
+quite funny many worry about _"legit"_ yet what they don't know is what
 I handed over an envelope to mark after the interview was done. He can
 tell his take behind it if he wishes to.
 
-If you brag, people bitch. If you don\'t, people bitch. Nature of social
+If you brag, people bitch. If you don't, people bitch. Nature of social
 media to focus on the outskirts instead of the overall picture. Its
-something that I\'ll learn to come to grips with.
+something that I'll learn to come to grips with.
 
 As for what I think of Mark and what he does with the channel. Honestly,
 its the modern take of what Warhol did back in the 60s in his studio The
