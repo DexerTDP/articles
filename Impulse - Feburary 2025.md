@@ -78,6 +78,5 @@ _**All sides can be saying their truth but the actual truth is somewhere in the 
 
 That said, RIP Michael Hastings.
 
-Take Care,
-
+Take Care,.<br>
 Dexer
