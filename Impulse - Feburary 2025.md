@@ -60,33 +60,23 @@ FBI Director James Comey told Congress the bureau would be reviewing additional 
 believed already closed."_ 
 -McCaskill, Nolan D. “16 of the Most Revelatory Clinton Emails.” POLITICO, 6 Nov. 2016
 
-In 2016, the culmination of the rise of the independent media concluded with all the controversy of Clinton emails. 
-Which were previously posted by wikileaks; who by that point had been a thorn on the US government side since 2010  
-with the documents they published provided to them by Chelsea Manning. Which in turn brought them huge praise by  
-worldwide activists, anonymous, and freethinkers.  
+In 2016, the culmination of the rise of the independent media concluded with all the controversy of Clinton emails.Which were previously posted by wikileaks; who by that point had been a thorn on the US 
+government side since 2010 with the documents they published provided to them by Chelsea Manning. Which in turn brought them huge praise by worldwide activists, anonymous, and freethinkers.  
 
-However as time went on with all the protests/riots, mass shootings, Snowden leaks and the overall satisfaction the 
-people had with the governing class. There were some who turned to the internet to look for what was the truth of it  
-all. Some found refuge in other places where there was common ideology. So by the time 2016 came of ahead and the 
-Clinton/Podesta emails dropped, the reaction it generated should have not been that much of a shock. People just 
-ignored the warning signs. More so, people wanted someone who was not from the political class to say what many thought 
+However as time went on with all the protests/riots, mass shootings, Snowden leaks and the overall satisfaction the people had with the governing class. There were some who turned to the internet to look for 
+what was the truth of it all. Some found refuge in other places where there was common ideology. So by the time 2016 came of ahead and the Clinton/Podesta emails dropped, the reaction it generated should have not been that much of a shock. People just ignored the warning signs. More so, people wanted someone who was not from the political class to say what many thought 
 
 Enter Trump.  
 
-Now forgetting the fact that he's still from the rich class given his businesses. But he was never born within the 
-political class and unlike most of them, Trump is as sensational as he is but he has his thumb on what was occuring.  
-However, during his presidency and then afterwards which include the storming of the capital, for which at the time 
-I'm typing this, Trump has pardoned the rioters. The disconnect of the 2 sides of america plus the everlasting doom 
-scrolling popularized by Tiktok. People now treat the news as if it were another sensational tabloid headline as it 
-if we were back in the 1980s/1990s. Only focusing on one sentence or title and then building expectations of what it  
-will be based on. Where clickbait has become normal practice. 
+Now forgetting the fact that he's still from the rich class given his businesses. But he was never born within the political class and unlike most of them, Trump is as sensational as he is but he has his thumb on what was occuring.  However, during his presidency and then afterwards which include the storming of the capital, for which at the time I'm typing this, Trump has pardoned the rioters. The disconnect of the 2 sides of america plus the everlasting doom scrolling popularized by Tiktok. People now treat the news as if it were another sensational tabloid headline as it if we were back in the 1980s/1990s. Only focusing on one sentence or title and then building expectations of what it will be based on. Where clickbait has become normal practice. 
 
 It begs the question who is even telling the truth anymore? 
 
-I always held the belief to absorb the information fully and then mentally pick it apart. Because after all it's said  
-and the following phrase is still true till the end of time. 
+I always held the belief to absorb the information fully and then mentally pick it apart. Because after all it's said and the following phrase is still true till the end of time. 
 
-All sides can be saying their truth but the actual truth is somewhere in the middle. 
+_**All sides can be saying their truth but the actual truth is somewhere in the middle.**_
+
+That said, RIP Michael Hastings.
 
 Take Care,
 
