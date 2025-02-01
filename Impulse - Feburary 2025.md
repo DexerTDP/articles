@@ -1,4 +1,5 @@
-#﻿Impulse 
+#﻿ Impulse
+
 ######When the headline is all that's needed to create a tick. 
 
 I personally didn't understand the whole dynamic in how people perceived news or digested content. Whether from a  
