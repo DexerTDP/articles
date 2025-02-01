@@ -1,4 +1,5 @@
-﻿Impulse - When the headline is all that's needed to create a tick. 
+#﻿Impulse 
+######When the headline is all that's needed to create a tick. 
 
 I personally didn't understand the whole dynamic in how people perceived news or digested content. Whether from a  
 video, article or a post. That all changed on January 6, 2025 when my interview with Soft White Underbelly dropped on  
