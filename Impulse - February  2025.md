@@ -29,20 +29,11 @@ Rumors to this day persist that the footage itself was destroyed.
 
 **Media's deception equals the anti-propaganda generation**
 
-Growing up in post 9/11, 1st gen anons in the media, cyberbullying reports, gang violence and activism taught 
-me a bit of how news coverage worked. In fact around 2016-2017 I found an old prime time episode from 1997 for which  
-Diane Sawyer aired a segment called "Girlz in Da Hood" which another reporter did. 
+Growing up in post 9/11, 1st gen anons in the media, cyberbullying reports, gang violence and activism taught me a bit of how news coverage worked. In fact around 2016-2017 I found an old PrimeTime episode from 1997 for which Diane Sawyer aired a segment called "Girlz in Da Hood" which Cynthia McFadden reported on. 
 
-In the segment it was depicting the lives of 2 women. One who despite being in the gang ranks tried to live 
-a life of a common citizen who worked in a law firm as a secretary while the other was just in the ranks but with no 
-prospects at all and was pregnant at the time with her boyfriend. The reporter made it seem that those two were a 
-block away from each other when in reality. one was in East LA and the other was located in my old block in Pico-Union.
-I could tell right away because of the landmark of barricades that were and still continue to exist.  
+In the segment it was depicting the lives of 2 women. One who despite being in the gang ranks tried to live a life of a common citizen who worked in a law firm as a secretary while the other was just in the ranks but with no prospects at all and was pregnant at the time with her boyfriend. The reporter made it seem that those two were a block away from each other when in reality. one was in East LA and the other was located in my old block in Pico-Union. I could tell right away because of the landmark of barricades that were and still continue to exist.  
 
-I laughed and was shocked by that small detail because anybody who could've seen the coverage then would've believed 
-in the media's depiction of the story. In many ways, in looking at that story, I turned anti-prograndist for a little  
-bit and it's understandable why. With all the movements that happened from 2006 - 2012, it shaped a generation  
-of distrusting the very institutions due to playing on some agenda. However, that brought another problem. 
+I laughed and was shocked by that small detail because anybody who could've seen the coverage then would've believed in the media's depiction of the story. In many ways, in looking at that story, I turned anti-prograndist for a little bit and it's understandable why. With all the movements that happened from 2006 - 2012, it shaped a generation of distrusting the very institutions due to playing on some agenda. However, that brought another problem. 
 
 **In the generation full of skeptics, they are the easiest to be gaslit.**
 
