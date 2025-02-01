@@ -21,10 +21,10 @@ and it exponentially gained more fire and land around Jan 7 - Jan 8. Twitter/X w
 known Apocalyptic LA given the Red Sun due to the fire and ash that surrounded it. But what fascinated me were the 
 twitter posts covering the fires with all sorts of shit happening. 
 
-From Gavin Newsom is a shit governor and failed los angeles and california 
-To Karen Bass, the current mayor of LA being recalled for her failure to act immediately  
-Negelience spending 
-Water Hydrants not having water 
+1. From Gavin Newsom is a shit governor and failed los angeles and california 
+2. To Karen Bass, the current mayor of LA being recalled for her failure to act immediately  
+3. Negelience spending 
+4. Water Hydrants not having water 
 
 Meanwhile the local news was explaining in detail why the water wasn't sufficient and given breakdown by breakdown  
 accounts of what was happening in the fires as soon as it happened. Now one can make the argument of all news is  
