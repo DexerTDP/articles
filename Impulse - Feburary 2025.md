@@ -1,4 +1,4 @@
-#﻿ Impulse
+# Impulse
 
 _When the headline is all that's needed to create a tick_
 
