@@ -58,8 +58,7 @@ _"The email scandal, which now includes a trove of campaign chairman John Podest
 personal account and now being released by WikiLeaks, has continually dogged her campaign but was given new life when 
 FBI Director James Comey told Congress the bureau would be reviewing additional emails related to an investigation  
 believed already closed."_ 
--McCaskill, Nolan D. “16 of the Most Revelatory Clinton Emails.” POLITICO, 6 Nov. 2016,  www.politico.com/story/2016/11/
-2016-election-hillary-clinton-emails-230792. 
+-McCaskill, Nolan D. “16 of the Most Revelatory Clinton Emails.” POLITICO, 6 Nov. 2016
 
 In 2016, the culmination of the rise of the independent media concluded with all the controversy of Clinton emails. 
 Which were previously posted by wikileaks; who by that point had been a thorn on the US government side since 2010  
