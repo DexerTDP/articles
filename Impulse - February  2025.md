@@ -4,7 +4,9 @@ _When the headline is all that's needed to create a tick_
 
 I personally didn't understand the whole dynamic in how people perceived news or digested content. Whether from a video, article or a post. That all changed on January 6, 2025 when my interview with Soft White Underbelly dropped on youtube. The backlash comments that it generated which overwhelmed me. People speaking for the irrelevant things while ignoring the overall message, verbal or nonverbal alike. And while I personally learned alot from that. However what would happen next really allowed me to see further that this is a common occurrence. Now and before. 
 
-The first screwed up disaster of 2025 The Los Angeles Fires.  
+The first screwed up disaster of 2025 
+
+**The Los Angeles Fires.**
 
 _"Fires across the Los Angeles area have killed at least 27 people, destroyed more than 14,000 structures and  
 charred some 60 square miles..."_
