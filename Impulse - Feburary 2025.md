@@ -11,7 +11,8 @@ However what would happen next really allowed me to see further that this is a c
 The first screwed up disaster of 2025 The Los Angeles Fires.  
 
 _"Fires across the Los Angeles area have killed at least 27 people, destroyed more than 14,000 structures and  
-charred some 60 square miles..." _
+charred some 60 square miles..."_
+
 -Sundby, A., & Lynch Baldwin, S. (2025, January 20). L.A. Fires Live Updates: Southern California braces for 
 high winds and heightened wildfire risk. CBS News. https://www.cbsnews.com/live-updates/la-fires-southern-
 california -high-winds-wildfire-risk/ 
