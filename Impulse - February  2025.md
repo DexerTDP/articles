@@ -46,7 +46,7 @@ believed already closed."_
 In 2016, the culmination of the rise of the independent media concluded with all the controversy of Clinton emails.Which were previously posted by wikileaks; who by that point had been a thorn on the US 
 government side since 2010 with the documents they published provided to them by Chelsea Manning. Which in turn brought them huge praise by worldwide activists, anonymous, and freethinkers.  
 
-However as time went on with all the protests/riots, mass shootings, Snowden leaks and the overall satisfaction the people had with the governing class. There were some who turned to the internet to look for 
+However as time went on with all the protests/riots, mass shootings, Snowden leaks and the overall unsatisfaction the people had with the governing class. There were some who turned to the internet to look for 
 what was the truth of it all. Some found refuge in other places where there was common ideology. So by the time 2016 came of ahead and the Clinton/Podesta emails dropped, the reaction it generated should have not been that much of a shock. People just ignored the warning signs. More so, people wanted someone who was not from the political class to say what many thought 
 
 Enter Trump.  
