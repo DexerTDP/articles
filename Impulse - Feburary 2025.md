@@ -32,11 +32,8 @@ Which can be illustrated by an underrated quote in the movie which isn't highlig
 
 _"TV is show biz, Max. And, even the News has to have a little showmanship..."_ 
 
-Lets go beyond that, that movie was loosely inspired by a real life case of Christine Chubback, the first person to 
-commit suicide on a live broadcast in 1974; due to personal issues and discontent in her workplace for preferring more  
-sensational journalism over real journalism. Fun fact, that Footage is still very sought after by the lost media  
-community that it is said that only the audio came out of it. Rumors to this day persist that the footage itself  
-was destroyed.  
+Lets go beyond that, that movie was loosely inspired by a real life case of Christine Chubback, the first person to commit suicide on a live broadcast in 1974; due to personal issues and discontent in her workplace for preferring more  sensational journalism over real journalism. Fun fact, that Footage is still very sought after by the lost media community that it is said that only the audio came out of it. 
+Rumors to this day persist that the footage itself was destroyed.  
 
 **Media's deception equals the anti-propaganda generation**
 
@@ -93,4 +90,5 @@ and the following phrase is still true till the end of time.
 All sides can be saying their truth but the actual truth is somewhere in the middle. 
 
 Take Care,
+
 Dexer
