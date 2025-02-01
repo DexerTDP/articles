@@ -13,10 +13,7 @@ charred some 60 square miles..."_
 -Sundby, A., & Lynch Baldwin, S. (2025, January 20). L.A. Fires Live Updates: Southern California braces for 
 high winds and heightened wildfire risk. CBS News. 
 
-The fires through my recollection would start to happen around late afternoon of Jan 6 as reported by local news 
-and it exponentially gained more fire and land around Jan 7 - Jan 8. Twitter/X would post of what would become  
-known Apocalyptic LA given the Red Sun due to the fire and ash that surrounded it. But what fascinated me were the 
-twitter posts covering the fires with all sorts of shit happening. 
+The fires through my recollection would start to happen around late afternoon of Jan 6 as reported by local news and it exponentially gained more fire and land around Jan 7 - Jan 8. Twitter/X would post of what would become known Apocalyptic LA given the Red Sun due to the fire and ash that surrounded it. But what fascinated me were the twitter posts covering the fires with all sorts of shit happening. 
 
 1. From Gavin Newsom is a shit governor and failed los angeles and california 
 2. To Karen Bass, the current mayor of LA being recalled for her failure to act immediately  
