@@ -6,7 +6,7 @@ I personally didn't understand the whole dynamic in how people perceived news or
 
 The first screwed up disaster of 2025 
 
-**The Los Angeles Fires.**
+<u>**The Los Angeles Fires.**</u>
 
 _"Fires across the Los Angeles area have killed at least 27 people, destroyed more than 14,000 structures and  
 charred some 60 square miles..."_
@@ -27,7 +27,7 @@ _"TV is show biz, Max. And, even the News has to have a little showmanship..."_
 Lets go beyond that, that movie was loosely inspired by a real life case of Christine Chubback, the first person to commit suicide on a live broadcast in 1974; due to personal issues and discontent in her workplace for preferring more  sensational journalism over real journalism. Fun fact, that Footage is still very sought after by the lost media community that it is said that only the audio came out of it. 
 Rumors to this day persist that the footage itself was destroyed.  
 
-**Media's deception equals the anti-propaganda generation**
+<u>**Media's deception equals the anti-propaganda generation**</u>
 
 Growing up in post 9/11, 1st gen anons in the media, cyberbullying reports, gang violence and activism taught me a bit of how news coverage worked. In fact around 2016-2017 I found an old PrimeTime episode from 1997 for which Diane Sawyer aired a segment called "Girls in Da Hood" which Cynthia McFadden reported on. 
 
@@ -35,7 +35,7 @@ In the segment it was depicting the lives of 2 women. One who despite being in t
 
 I laughed and was shocked by that small detail because anybody who could've seen the coverage then would've believed in the media's depiction of the story. In many ways, in looking at that story, I turned anti-prograndist for a little bit and it's understandable why. With all the movements that happened from 2006 - 2012, it shaped a generation of distrusting the very institutions due to playing on some agenda. However, that brought another problem. 
 
-**In the generation full of skeptics, they are the easiest to be gaslit.**
+<u>**In the generation full of skeptics, they are the easiest to be gaslit.**</u>
 
 _"The email scandal, which now includes a trove of campaign chairman John Podesta’s emails stolen from his  
 personal account and now being released by WikiLeaks, has continually dogged her campaign but was given new life when 
