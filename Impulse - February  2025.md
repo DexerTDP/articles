@@ -20,10 +20,7 @@ The fires through my recollection would start to happen around late afternoon of
 3. Negelience spending 
 4. Water Hydrants not having water 
 
-Meanwhile the local news was explaining in detail why the water wasn't sufficient and given breakdown by breakdown  
-accounts of what was happening in the fires as soon as it happened. Now one can make the argument of all news is  
-propaganda. If you watched the 1976 movie 'Network', one can learn straight away from the message of the movie. 
-Which can be illustrated by an underrated quote in the movie which isn't highlighted enough.  
+Meanwhile the local news was explaining in detail why the water wasn't sufficient and given breakdown by breakdown accounts of what was happening in the fires as soon as it happened. Now one can make the argument of all news is propaganda. If you watched the 1976 movie 'Network', one can learn straight away from the message of the movie. Which can be illustrated by an underrated quote in the movie which isn't highlighted enough.  
 
 _"TV is show biz, Max. And, even the News has to have a little showmanship..."_ 
 
