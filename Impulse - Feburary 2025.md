@@ -12,7 +12,6 @@ The first screwed up disaster of 2025 The Los Angeles Fires.
 
 _"Fires across the Los Angeles area have killed at least 27 people, destroyed more than 14,000 structures and  
 charred some 60 square miles..."_
-
 -Sundby, A., & Lynch Baldwin, S. (2025, January 20). L.A. Fires Live Updates: Southern California braces for 
 high winds and heightened wildfire risk. CBS News. https://www.cbsnews.com/live-updates/la-fires-southern-
 california -high-winds-wildfire-risk/ 
@@ -63,7 +62,6 @@ _"The email scandal, which now includes a trove of campaign chairman John Podest
 personal account and now being released by WikiLeaks, has continually dogged her campaign but was given new life when 
 FBI Director James Comey told Congress the bureau would be reviewing additional emails related to an investigation  
 believed already closed."_ 
-
 -McCaskill, Nolan D. “16 of the Most Revelatory Clinton Emails.” POLITICO, 6 Nov. 2016,  www.politico.com/story/2016/11/
 2016-election-hillary-clinton-emails-230792. 
 
