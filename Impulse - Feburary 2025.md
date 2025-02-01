@@ -10,10 +10,10 @@ However what would happen next really allowed me to see further that this is a c
 
 The first screwed up disaster of 2025 The Los Angeles Fires.  
 
-"Fires across the Los Angeles area have killed at least 27 people, destroyed more than 14,000 structures and  
-charred some 60 square miles..."  
+_"Fires across the Los Angeles area have killed at least 27 people, destroyed more than 14,000 structures and  
+charred some 60 square miles..." _
 -Sundby, A., & Lynch Baldwin, S. (2025, January 20). L.A. Fires Live Updates: Southern California braces for 
-` `high winds and heightened wildfire risk. CBS News. https://www.cbsnews.com/live-updates/la-fires-southern-
+high winds and heightened wildfire risk. CBS News. https://www.cbsnews.com/live-updates/la-fires-southern-
 california -high-winds-wildfire-risk/ 
 
 The fires through my recollection would start to happen around late afternoon of Jan 6 as reported by local news 
@@ -39,7 +39,7 @@ sensational journalism over real journalism. Fun fact, that Footage is still ver
 community that it is said that only the audio came out of it. Rumors to this day persist that the footage itself  
 was destroyed.  
 
-Media's deception equals the anti-propaganda generation 
+**Media's deception equals the anti-propaganda generation**
 
 Growing up in post 9/11, 1st gen anons in the media, cyberbullying reports, gang violence and activism taught 
 me a bit of how news coverage worked. In fact around 2016-2017 I found an old prime time episode from 1997 for which  
@@ -56,12 +56,12 @@ in the media's depiction of the story. In many ways, in looking at that story, I
 bit and it's understandable why. With all the movements that happened from 2006 - 2012, it shaped a generation  
 of distrusting the very institutions due to playing on some agenda. However, that brought another problem. 
 
-In the generation of skeptics being anti propaganda, they are the easiest to be gaslit. 
+**In the generation full of skeptics, they are the easiest to be gaslit.**
 
-"The email scandal, which now includes a trove of campaign chairman John Podesta’s emails stolen from his  
+_"The email scandal, which now includes a trove of campaign chairman John Podesta’s emails stolen from his  
 personal account and now being released by WikiLeaks, has continually dogged her campaign but was given new life when 
 FBI Director James Comey told Congress the bureau would be reviewing additional emails related to an investigation  
-believed already closed." 
+believed already closed."_ 
 
 -McCaskill, Nolan D. “16 of the Most Revelatory Clinton Emails.” POLITICO, 6 Nov. 2016,  www.politico.com/story/2016/11/
 2016-election-hillary-clinton-emails-230792. 
