@@ -29,7 +29,7 @@ Rumors to this day persist that the footage itself was destroyed.
 
 **Media's deception equals the anti-propaganda generation**
 
-Growing up in post 9/11, 1st gen anons in the media, cyberbullying reports, gang violence and activism taught me a bit of how news coverage worked. In fact around 2016-2017 I found an old PrimeTime episode from 1997 for which Diane Sawyer aired a segment called "Girlz in Da Hood" which Cynthia McFadden reported on. 
+Growing up in post 9/11, 1st gen anons in the media, cyberbullying reports, gang violence and activism taught me a bit of how news coverage worked. In fact around 2016-2017 I found an old PrimeTime episode from 1997 for which Diane Sawyer aired a segment called "Girls in Da Hood" which Cynthia McFadden reported on. 
 
 In the segment it was depicting the lives of 2 women. One who despite being in the gang ranks tried to live a life of a common citizen who worked in a law firm as a secretary while the other was just in the ranks but with no prospects at all and was pregnant at the time with her boyfriend. The reporter made it seem that those two were a block away from each other when in reality. one was in East LA and the other was located in my old block in Pico-Union. I could tell right away because of the landmark of barricades that were and still continue to exist.  
 
