@@ -31,7 +31,7 @@ accounts of what was happening in the fires as soon as it happened. Now one can 
 propaganda. If you watched the 1976 movie 'Network', one can learn straight away from the message of the movie. 
 Which can be illustrated by an underrated quote in the movie which isn't highlighted enough.  
 
-"TV is show biz, Max. And, even the News has to have a little showmanship..." 
+_"TV is show biz, Max. And, even the News has to have a little showmanship..."_ 
 
 Lets go beyond that, that movie was loosely inspired by a real life case of Christine Chubback, the first person to 
 commit suicide on a live broadcast in 1974; due to personal issues and discontent in her workplace for preferring more  
