@@ -2,10 +2,13 @@
 
 _An era most didn't know existed until a lawsuit ended it._
 
-_"On March 3, 2023, social media giant Meta sued Freenom in a Northern California court, alleging cybersquatting violations and trademark infringement. The lawsuit also seeks information about the identities of 20 different “John Does” — Freenom customers that Meta says have been particularly active in phishing attacks against Facebook, Instagram, and WhatsApp users."_ -Sued by Meta, Freenom Halts Domain Registrations – Krebs on Security. krebsonsecurity.com/2023/03/sued-by-meta-freenom-halts-domain-registrations/
+_"On March 3, 2023, social media giant Meta sued Freenom in a Northern California court, alleging cybersquatting violations and trademark infringement. The lawsuit also seeks information about the identities of 20 different “John Does” — Freenom customers that Meta says have been particularly active in phishing attacks against Facebook, Instagram, and WhatsApp users."_ -Sued by Meta, Freenom Halts Domain Registrations – Krebs on Security. 
+krebsonsecurity.com
+/2023/03/sued-by-meta-freenom-halts-domain-registrations/
 
 That quote came from an article that I recently read about the fate of freenom which was somewhat sad, and a little unexpected but also at some point, it was going to end. Especially since by that point in 2023, the atmosphere of free domains, or "the free care package" as I call it is a lot more restrained as said compared to the early 2000s when it was rampant. From domains such as .tk and .
-co.cc being popularized to all of a sudden domains that not only endured poor reputation in internet security, blacklisted by Google and eventually both ceasing operations. With the understanding of how cybercrime grew came the inevitable decline of such services, which leads to the question...
+co.cc
+ being popularized to all of a sudden domains that not only endured poor reputation in internet security, blacklisted by Google and eventually both ceasing operations. With the understanding of how cybercrime grew came the inevitable decline of such services, which leads to the question...
 
 How will hackers, spammers, scammers,swapers and phishers adapt to change when "free" is no longer an option?
 
@@ -18,7 +21,8 @@ When it comes to the hacker culture, it's understood that its foundation did not
 The first domain registrations were around the mid-1980s via the old saying of first come, first serve and believe it or not, free....
 
 _"In 1985, the registration of domain names was free and unrestricted. However, the process was more complicated than it is now, where you can buy a domain basically like you would order anything else online. In 1985, only those with ARPA access could register domains...."_ -Baltes, Lisa. “What Was the First Domain Name Ever Registered? - OnlyDomains Blog.” OnlyDomains Blog, 7 Feb. 2024, 
-www.onlydomains.com/blog/what-was-the-first-domain-name-ever-registered/. Accessed 11 Feb. 2025.
+www.onlydomains.com
+/blog/what-was-the-first-domain-name-ever-registered/. Accessed 11 Feb. 2025.
 
 Domain management then was handled by an Non Profit called Internet Assigned Numbers Authority (IANA) in a centralized manner managed by Jon Postel; where the only thing you did to secure a domain was to contact him and ask for the domain. But like most things around this inital period while domains were restritive but it was also a flawed system due to in its lack of oversight.
 
@@ -36,7 +40,7 @@ However with one ending of a cycle begins a new cycle.
 <ins>**Golden Era**</ins>
 
 With the regulation of regristering for domains were getting the mainstream domains as .com, .org, .net as well as top country top level domains as .
-co.uk, .co.jp to name a few. However there was the usher in of new obsecure domains that were buying at a chance to get in the internet gold rush to have their own presence.
+co.uk,.co.jp to name a few. However there was the usher in of new obsecure domains that were buying at a chance to get in the internet gold rush to have their own presence.
 
 By 1997, a territory of new zealand named tokelau were getting their own domain country level domain extension that ended in .tk
 
@@ -50,7 +54,7 @@ When I was introduced to phishing all those years ago, the guy who showed me the
 
 As the guy explained to me "for the heavy duty , its always outside of your space"
 
-Looking back, it made sense. As a teenager going to school, you had accesibility to a petridish of test subjects that you can use to test every little imagination of skill to see what works and what doesn't work. Then whatever works, you would then use for other shit on the low. Like I mentioned in my interview on my infamous interview, I got started in phishing. How? by using ripway along with .ml domain for my own myspace phishing page along with the email I would send via bulk attacks (email spamming).
+Looking back, it made sense. As a teenager going to school, you had accesibility to a petridish of test subjects that you can use to test every little imagination of skill to see what works and what doesn't work. Then whatever works, you would then use for other shit on the low. Like I mentioned in my infamous interview on white soft underbelly, I got started in phishing. How? by using ripway along with .ml domain for my own myspace phishing page along with the email I would send via bulk attacks (email spamming).
 
 I can't remember how I structured my domain to be. But man, kids did fell for it back in the day. Unlike the friend who showed me the ropes, I didn't have the luxury to have a seperate computer to host my own sites. Plus I figured it was easy to have some plausible denibity if I was nit in school.
 
