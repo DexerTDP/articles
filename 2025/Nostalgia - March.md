@@ -1,20 +1,24 @@
-Nostalgia - An era most didn't know existed until a lawsuit ended it.
+# Nostalgia 
 
-"On March 3, 2023, social media giant Meta sued Freenom in a Northern California court, alleging cybersquatting violations and trademark infringement. The lawsuit also seeks information about the identities of 20 different “John Does” — Freenom customers that Meta says have been particularly active in phishing attacks against Facebook, Instagram, and WhatsApp users." -Sued by Meta, Freenom Halts Domain Registrations – Krebs on Security. krebsonsecurity.com/2023/03/sued-by-meta-freenom-halts-domain-registrations/
+_An era most didn't know existed until a lawsuit ended it._
 
-That quote came from an article that I recently read about the fate of freenom which was somewhat sad, and a little unexpected but also at some point, it was going to end. Especially since by that point in 2023, the atmosphere of free domains, or "the free care package" as I call it is a lot more restrained as said compared to the early 2000s when it was rampant. From domains such as .tk and .co.cc being popularized to all of a sudden domains that not only endured poor reputation in internet security, blacklisted by Google and eventually both ceasing operations. With the understanding of how cybercrime grew came the inevitable decline of such services, which leads to the question...
+_"On March 3, 2023, social media giant Meta sued Freenom in a Northern California court, alleging cybersquatting violations and trademark infringement. The lawsuit also seeks information about the identities of 20 different “John Does” — Freenom customers that Meta says have been particularly active in phishing attacks against Facebook, Instagram, and WhatsApp users."_ -Sued by Meta, Freenom Halts Domain Registrations – Krebs on Security. krebsonsecurity.com/2023/03/sued-by-meta-freenom-halts-domain-registrations/
+
+That quote came from an article that I recently read about the fate of freenom which was somewhat sad, and a little unexpected but also at some point, it was going to end. Especially since by that point in 2023, the atmosphere of free domains, or "the free care package" as I call it is a lot more restrained as said compared to the early 2000s when it was rampant. From domains such as .tk and .
+co.cc being popularized to all of a sudden domains that not only endured poor reputation in internet security, blacklisted by Google and eventually both ceasing operations. With the understanding of how cybercrime grew came the inevitable decline of such services, which leads to the question...
 
 How will hackers, spammers, scammers,swapers and phishers adapt to change when "free" is no longer an option?
 
 The answer although obvious but the how? that's the question.
 
-The Domain foundation
+<ins>**The Domain Foundation**</ins>
 
 When it comes to the hacker culture, it's understood that its foundation did not start all behind on the computer screen but rather the small blue boxes to not pay extra to call long-distance lines. However, with the introduction of the internet to the public masses around the 1990s, many were in awe and also in wonder at how much the internet could be used to its fullest capabilities; which before was only a privilege of businesses and universities in the 1980s and government entities with DARPA program back in the 50s. That said, domains were no different.
 
 The first domain registrations were around the mid-1980s via the old saying of first come, first serve and believe it or not, free....
 
-"In 1985, the registration of domain names was free and unrestricted. However, the process was more complicated than it is now, where you can buy a domain basically like you would order anything else online. In 1985, only those with ARPA access could register domains...." -Baltes, Lisa. “What Was the First Domain Name Ever Registered? - OnlyDomains Blog.” OnlyDomains Blog, 7 Feb. 2024, www.onlydomains.com/blog/what-was-the-first-domain-name-ever-registered/. Accessed 11 Feb. 2025.
+_"In 1985, the registration of domain names was free and unrestricted. However, the process was more complicated than it is now, where you can buy a domain basically like you would order anything else online. In 1985, only those with ARPA access could register domains...."_ -Baltes, Lisa. “What Was the First Domain Name Ever Registered? - OnlyDomains Blog.” OnlyDomains Blog, 7 Feb. 2024, 
+www.onlydomains.com/blog/what-was-the-first-domain-name-ever-registered/. Accessed 11 Feb. 2025.
 
 Domain management then was handled by an Non Profit called Internet Assigned Numbers Authority (IANA) in a centralized manner managed by Jon Postel; where the only thing you did to secure a domain was to contact him and ask for the domain. But like most things around this inital period while domains were restritive but it was also a flawed system due to in its lack of oversight.
 
@@ -24,13 +28,15 @@ The entities that needed the go ahead and secure their domains through informal 
 
 Thus the first instance of domain abuse for malicious intent and between that and people reselling domains after purchase was being seen.
 
-This later on created the inevitable choice which lead to InterNIC becoming ICANN (Internet Corporation for Assigned Names and Numbers) and domain registrations were opened up in a more regulative system, in an attempt to try to regulate the market but also make wave for new country code regristars could be connected to ICANN to be kept track of while not losing automony. Its how in other country code as .co.uk are regristered both in nominet and icann.
+This later on created the inevitable choice which lead to InterNIC becoming ICANN (Internet Corporation for Assigned Names and Numbers) and domain registrations were opened up in a more regulative system, in an attempt to try to regulate the market but also make wave for new country code regristars could be connected to ICANN to be kept track of while not losing automony. Its how in other country code as .
+co.uk are regristered both in nominet and icann.
 
 However with one ending of a cycle begins a new cycle.
 
-Golden Era
+<ins>**Golden Era**</ins>
 
-With the regulation of regristering for domains were getting the mainstream domains as .com, .org, .net as well as top country top level domains as .co.uk, .co.jp to name a few. However there was the usher in of new obsecure domains that were buying at a chance to get in the internet gold rush to have their own presence.
+With the regulation of regristering for domains were getting the mainstream domains as .com, .org, .net as well as top country top level domains as .
+co.uk, .co.jp to name a few. However there was the usher in of new obsecure domains that were buying at a chance to get in the internet gold rush to have their own presence.
 
 By 1997, a territory of new zealand named tokelau were getting their own domain country level domain extension that ended in .tk
 
@@ -54,7 +60,7 @@ However.
 
 With the rise of facebook and twitter in 2008-2009. A new domain took over the popularity of free domains
 
-.cc
+**.cc**
 
 Established in 1997, this country top level domain from cocos island was also gaining popularity between all the spamers, phishers and every other bastard who needed a free site.
 
@@ -70,17 +76,17 @@ and yea, I still miss the honeypot site to this day because it allowed for me to
 
 I also experimented with other free domains such as a redirecting domain provider .co.nr and eventually .tk. By the time I started my own group back in 2013. I had already had my free .tk domain in a hosting service for purely email which we all used to communicate. By this time, I believe freenom was already handling all the free domain regristrations of .tk and .ml along with others I never heard of.
 
-The eventual downfall
+<ins>**The eventual downfall**</ins>
 
 As time went on, I started to experience more setbacks when it cames to establish sites under free domain extentions given their mass use. Now its no secrets that some hosting companies just didn't give a shit since they profitted from the use of a service.
 
-As the saying goes If its free then you are the product
+As the saying goes _If its free then you are the product_
 
 However as years went on, domains and hosting packages started to become more accessible and somewhat affordable to get rather than not. Then there is the rise of bulletproof hosting which in my opinion is basically infamy haven with an expiration date. That said, for those who were nostalgic or new fag who was just learning the ropes, freenom still was the go until eventually meta sued them for cybersquatting phishing pages.
 
 Which till this day, I find very ironic that free domains as I once knew it was ended by the very service that .tk promoted back in the day called tweak which was a url shortner where you can rename your facebook page with the .tk name.
 
-What now?
+<ins>**What now?**</ins>
 
 With freenom being gone the question becomes, are their still free domains or hosting?
 
@@ -100,10 +106,9 @@ Part of it is nostalgia and reflecting on memories. And on the other, I still re
 
 As a retired hacker/phisher I will say this, for as much people want to try to downplay phishing. Which in it self thats stupid to do because if we really get down to the nitty gritty of what is phishing, its simply this.
 
-Phishing = learning the art of deception
+**Phishing = learning the art of deception**
 
-A survivial tactic for the modern world of misinformation
+<ins>A survivial tactic for the modern world of misinformation</ins>
 
-Take Care,
-
+Take Care,<br>
 Dexer
