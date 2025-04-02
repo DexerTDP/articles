@@ -20,7 +20,7 @@ Its also the people who try to look out for their best interest against the dang
 
 <ins>**A request**</ins>
 
-"Can you look at this instagram page? Please tell me that you see the same thing as I do and how dangerous this is."
+_"Can you look at this instagram page? Please tell me that you see the same thing as I do and how dangerous this is."_
 
 I can't remember exactly what happened before the question gets asked however, I always am briefed about whatever new topic is going on in the world. I told the user who reached out to me that I would. 
 
@@ -31,10 +31,10 @@ The instagram page I looked at was of the name of a woman with the picture with 
 Those videos ranged from her suggestive dances and outright performances that would make any parent to try and shut that shit down if it were their kid doing it. But that was not the surprising part. 
 
 As I looked in the comments, there were users that were saying the following
-"you're so pretty"
-"dm me"
-"please post more"
-"are your dms open"
+- "you're so pretty"
+- "dm me"
+- "please post more"
+- "are your dms open"
 
 When I clicked on the profile of these comments, I saw that these people leaving comments were grown ass men. Men who knew that the girl had to not been older than 13 or 14 years old. But yet this was not the surprising part.
 
