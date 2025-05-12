@@ -12,6 +12,7 @@ Whether its stock brokers wanting to hear trade secrets, the red scare, WWII, co
 Fun fact, the FBI were formed initially to fight corruption of illegal land dealings that congress didn't want the president to investigate with the secret service  before J Edgar Hoover took over the bureau....Does it sound familiar now to what DOGE is trying to be?
 
 <ins>**History repeats**</ins>
+
 _"Today U.S. Citizenship and Immigration Services (USCIS) will begin considering aliens’ antisemitic activity on social media and the physical harassment of Jewish individuals as grounds for denying immigration benefit requests. This will immediately affect aliens applying for lawful permanent resident status, foreign students and aliens affiliated with educational institutions linked to antisemitic activity."_ -DHS to Begin Screening Aliens’ Social Media Activity for Antisemitism | USCIS.” USCIS, 9 Apr. 2025, www.uscis.gov/newsroom/news-releases/dhs-to-begin-screening-aliens-social-media-activity-for-antisemitism
 
 The 1st time I had heard of systematic surveillance happening at any point in my life initally would be right after 9/11 with the passing of the patriot act. Now as a child, all of the politics aside, I took it as non-sense as I didn't understand what was going on then. That was until I first witnessed a kid of a Muslim decent being bullied and picked on. As if he were to be blamed by the war. I didn't realize it then but later on when I had discovered WikiLeaks and learned about what they put out on the war of Iraq. Its when I had that flashback to my childhood memory. I couldn't help but to feel bad for the whole damn thing
@@ -23,6 +24,7 @@ And even before that, during WWII, when Japanese citizens had to be relocated to
 There was always a reason of why some oversight had to happen in order for people to cater and let the government do what it was to keep them safe and always often never wanting to know what that meant until it was too late.…
 
 <ins> Current Predicament </ins>
+
 Now obviously the target of full surveillance these days is any political dissents, skin color (legal or not), and if you are RFK, people with autism. It seems that the current administration obsession in repeating the aftermath of the bush administration in how they dealt with it which  undermined warrants and the rule of law. Ironically, it only breeds whistleblowers and more outspoken critics. 
 
 It seems its always the same cycle. 
@@ -76,7 +78,9 @@ In simple essence, tech and code is only around due to humans and every person i
 
 and in both there's always a payoff
 
-Which in hindsight, its the basis of surveillance. 
+Which in hindsight, its the basis of surveillance. The sad part is, its a part of our society now, snowden warned the world about it. Nobody really cared. 
+
+it is what it is.
 
 Take Care, <br>
 Dexer
