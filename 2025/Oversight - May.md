@@ -1,5 +1,5 @@
 # **Oversight**
-_What has governed america over 163 years caused the evolution of surveillance as time went?_
+What has governed america over 163 years caused the evolution of surveillance as time went?
 
 _"There is something categorically different about electronic surveillance in our contemporary moment: the extent to which it operates on a mass scale. Wiretapping and electronic eavesdropping was highly individualized up until the 1980s. We were tapping individual telephones and listening to individual conversations. Now, as a result of the rise of “dataveillence” in particular, we're talking about a scale of surveillance that scarcely seems fathomable from the perspective of the 1960s, 1970s, or even the 1980s."_ - White, April. “A Brief History of Surveillance in America.” Smithsonian, Smithsonian.com, 22 Mar. 2018, www.smithsonianmag.com/history/brief-history-surveillance-america-180968399/.
 
