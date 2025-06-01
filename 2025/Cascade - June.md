@@ -17,7 +17,7 @@ It did bring up the memories of me growing up hearing about Michael's allegation
 
 I don't think people now really understand when the allegations came out in the summer of 1993, how deep and shocking all of it was when it came to Michael Jackson. The man then had the world in the palm of his hand. While being sensationalized as the product of his fame and slow dehumanization, it only earned him more supporters by the overwhelming public who adored him.  If you were to talk to some of his supporters, they would say that the dehumanization campaign started around 1985 when he bought The Beatles catalog. And, it may have been the tipping point. However, he was warned about buying the catalog beforehand.
 
-"Jackson did a full turn, jumped in the air and shrieked. “But wait,” Branca warned. “Other people are also after the catalogue. It’s going to be a struggle.” Jackson replied, “I don’t care. I want it . . . please.” -Hilburn, R. (1985, September 22). THE LONG AND WINDING ROAD - Los Angeles Times. Los Angeles Times. https://www.latimes.com/la-me-jacksontimeline-catalog-story.html
+_"Jackson did a full turn, jumped in the air and shrieked. “But wait,” Branca warned. “Other people are also after the catalogue. It’s going to be a struggle.” Jackson replied, “I don’t care. I want it . . . please.”_ -Hilburn, R. (1985, September 22). THE LONG AND WINDING ROAD - Los Angeles Times. Los Angeles Times. https://www.latimes.com/la-me-jacksontimeline-catalog-story.html
 
 Regardless in how people want to look at it, his growing fame was becoming a double edged sword. On one hand you get an adoring public mesmerized by you and on the other you get those who wish to exploit the creative. Celebrity is nothing more than a toxic cycle of exploitation that the only way to escape is to have power. and if you don't align with those in power to stay on top then you become exploited yourself. And in the case of Michael, his actions and decisions after achieving the pinnacle of success may have put him in the fence that till this day people still debate whether he was one or not.
 
@@ -45,13 +45,13 @@ In fact, an obscure documentary came out in the eve of the aftermath of the scan
 
 <ins> *An act of service that predicted future irony* </ins>
 
-On July 8, 1994, a college project documentary film called Chickenhawk: Men who love boys was released in select film festivals, theaters and home theatre. The film was created and produced by Adi Sideman then NYU student who then would become later on founded and was CEO of YouNow, a streaming platform. In the film according to imdb sees the study of members of NAMBLA and what they are. Some called a shock of a film, others call it an act of service that this topic was given a broader scope. To me, I call it a film that highlighted a future unseen irony.
+On July 8, 1994, a college project documentary film called Chickenhawk was released in select film festivals, theaters and home theatre. The film was created and produced by Adi Sideman then NYU student who then would become later on founded and was CEO of YouNow, a streaming platform. In the film according to imdb sees the study of members of NAMBLA and what they are. Some called a shock of a film, others call it an act of service that this topic was given a broader scope. To me, I call it a film that highlighted a future unseen irony.
 
 How so?
 
 Well remember when I said that Adi Sideman founding YouNow? The site which years later was a platform that was frequent by the very people he profiled in the film. A problem that I also witness myself when I worked in what happened to Amanda Todd.
 
-"An app that's gaining popularity is causing concern among police and child safety advocates because it encourages young people to livestream their every move to strangers. Experts worry that predators will use this app, called YouNow, to prey on children. YouNow is available to anyone and within minutes of downloading it, KMBC 9 News found it showing a number of teenage girls singing in their bedrooms or eating a snack after school. KMBC didn't even need to get the users to accept a friend request to gain access to the images." - Henry, K. (2017, October 5). Experts: Popular livestreaming app could draw sexual predators. KMBC. https://www.kmbc.com/article/experts-popular-livestreaming-app-could-draw-sexual-predators/3687687
+_"An app that's gaining popularity is causing concern among police and child safety advocates because it encourages young people to livestream their every move to strangers. Experts worry that predators will use this app, called YouNow, to prey on children. YouNow is available to anyone and within minutes of downloading it, KMBC 9 News found it showing a number of teenage girls singing in their bedrooms or eating a snack after school. KMBC didn't even need to get the users to accept a friend request to gain access to the images."_ - Henry, K. (2017, October 5). Experts: Popular livestreaming app could draw sexual predators. KMBC. https://www.kmbc.com/article/experts-popular-livestreaming-app-could-draw-sexual-predators/3687687
 
 I'm sure adi was well aware of the problem of his platform but much like the issue with tech companies moderating content. How do you keep up with the ever constant changes that deviants do to stay under the radar. As much as I can argue that more could've been done but also, how can they stay ontop of a growing problem without risking being accused of "censorship"?
 
@@ -59,7 +59,7 @@ I'm sure adi was well aware of the problem of his platform but much like the iss
 
 There's some videos that ask this in the current day when it comes to Michael. You might ask me what my thought is. As Lisa Marie Presley, his ex-wife mentioned before amongst the lines of 'I never saw anything, I would've done something if I had. But the only people who will know of what really happened is whoever was in that room.'
 
-The truth is, Michael was not an easy person to understand. Will I ever say he's a saint? No. Because that would be an insult to him as he wanted to be seen as human. And part of being human is making mistakes. His mistake, trusting people he shouldn't. And while He didn't have an ordinary life but he was not a saint as some of his hardcore fans depict him as.
+The truth is, Michael was not an easy person to understand. Will I ever say he's a saint? No. Because that would be an insult to him as he wanted to be seen as human. And part of being human is making mistakes. His mistake, trusting people he shouldn't. And while He didn't have an ordinary life but he also made his mistakes along the way.
 
 However.
 
