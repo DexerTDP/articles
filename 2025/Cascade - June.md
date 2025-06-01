@@ -1,7 +1,7 @@
 # Cascade
 _When fame was the reason a crime became mainstream to talk about._
 
-Disclaimer - Before beginning this article, I would like to preface that the person and case I am going to write about has been investigated by both law enforcement and went to court for which they were found not guilty. This article will look at the overall view of the case from a very detached perspective to keep the integrity of all sides of the coin in mind. 
+**Disclaimer - Before beginning this article, I would like to preface that the person and case I am going to write about has been investigated by both law enforcement and went to court for which they were found not guilty. This article will look at the overall view of the case from a very detached perspective to keep the integrity of all sides of the coin in mind.** 
 
 _"Dan Reed’s world-rocking 2019 documentary detailed the experiences of survivors Wade Robson and James Safechuck – perhaps too definitively for this sequel to have anything new to say. If only it had waited for their trial"_ -Seale, J. (2025, March 18). Leaving Neverland 2: Surviving Michael Jackson review – the shocking exposé of the megastar is a hard act to follow. The Guardian. https://www.theguardian.com/tv-and-radio/2025/mar/18/leaving-neverland-2-surviving-michael-jackson-review-dan-reed
 
