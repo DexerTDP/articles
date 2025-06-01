@@ -1,5 +1,5 @@
 # Cascade
-When fame was the reason a crime became mainstream to talk about.
+_When fame was the reason a crime became mainstream to talk about._
 
 Disclaimer - Before beginning this article, I would like to preface that the person and case I am going to write about has been investigated by both law enforcement and went to court for which they were found not guilty. This article will look at the overall view of the case from a very detached perspective to keep the integrity of all sides of the coin in mind. 
 
