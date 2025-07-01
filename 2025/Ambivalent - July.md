@@ -123,7 +123,7 @@ Also a whole lot of stuff was going on at this time with all of us in the group;
 
 _'This is the end, My only friend, the end'_
 
-Now you know what caused me to retire from hacking.
+Now you know what caused me to retire from hacking in August 2016.
 
 <ins>Afterword</ins>
 
