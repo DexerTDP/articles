@@ -119,7 +119,7 @@ One case felt wrong and it was unlid. That's what it took. By this point, I was 
 
 I won't get into inner specifics of details of what happened in the case but know that the end of it caused me to break the rule of going beyond the curtain and leak what we had to the unsuspecting target. This client in particular had a DV charge on them and potentially was trying to trade the old for the new so to speak. However, the target instead of I guess being thankful, she was mad and blamed us for the problems in her relationship with the client to the point she wanted to unmask us by any means. 
 
-Also a whole lot of stuff was going on at this time with all of us in the group that at times I felt genuinely we were all losing our damn minds due to the stress of our operations. Plus the possibility of the bitch reaching out to whoever and having orders for our arrest was there. So as tough as it was, I had decision to make and as that song goes from the doors
+Also a whole lot of stuff was going on at this time with all of us in the group; that at times I felt genuinely we were all losing our damn minds due to the stress of our operations. Plus the possibility of the bitch reaching out to whoever and having orders for our arrest was there. So as tough as it was, I had decision to make and as that song goes from the doors
 
 _'This is the end, My only friend, the end'_
 
