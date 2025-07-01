@@ -21,7 +21,7 @@ But then again who told you that the Ashley Madison hack was the only scenario o
 
 I insinuated in my interview with mark from soft white underbelly that I dealt with cheaters at the time I was active. This all started due to an idea that was talked about with my group members in December 2014. 
 
-At that time I was already so worn out with the operations we were doing in dos RP/pedo sites, doxing and reporting cappers to NCMEC portal, as well as trying to piece the Amanda Todd case. In the little free time I had in between your college classes, I dealt with imagery that mentally twists your perception of humanity. On top of it, the feeling of heaviness knowing that you have other people with you who are doing this work without any idea how the same work could be affecting them.
+At that time I was already so worn out with the operations we were doing in dos RP/pedo sites, doxing and reporting cappers to NCMEC portal, as well as trying to piece the Amanda Todd case. In the little free time I had in between college classes, I dealt with imagery that mentally twists your perception of humanity. On top of it, the feeling of heaviness knowing that you have other people with you who are doing this work without any idea how the same work could be affecting them.
 
 That particular day, nobody wanted to start the work, soul wise, we were starting to freeze mentally and emotionally from doing anything. Today it would be called, being numb. So to break the ice, we start to talk about what was happening outside of what we were doing, to get us on the mood to at least do something.
 
@@ -38,6 +38,7 @@ Now you maybe asking why help cheaters, isn't that a bit immoral in breaking up 
 Looking back, a mind did break while doing this side business. In this case, mine did.
 
 <ins>Setting the foundation</ins>
+
 I won't go into detail of how we set it all up step by step because after all it wasn't just me who was doing this endeavor. However what I can tell you that the first job, it was decided that the member would ask a relative of his to be the bridge between their friend and us to try to gather as much information as we can on this situation. 
 
 And boy he vented a lot, to the point that we were able to understand, what was the situation, who were all the parties involved, etc. There was no need to do any OSINT, CSINT or send a bait (phishing or Metasploit payload) to get more info. However, he was forewarned that if he wanted to stay hidden and then out the relationship to start anew, it would come at a price.
