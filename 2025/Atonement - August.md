@@ -15,7 +15,7 @@ I never fancied myself to being the best shit out there. But mickey mouse hacker
 Regardless, some if not most people will only remember the golden age of anonymous or the 1st gen as I call them. Names like Commander X, Topihary , Kayla, 
 Ghost Exodus, Barret Brown, Jeremy Hammond, Gregg Housh, etc and yes even the ex-communicated of the movement, Sabu where among the publicly 
 recognized of the group and its those names people often remember by from 2007-2011. However there are exceptions like Deric Lostutter who as 
-KnightSec/KAAnonymous was responsible for the Steubenville case to gain mass international recognition to talk about a case of sexual violence 
+KnightSec/KYAnonymous was responsible for the Steubenville case to gain mass international recognition to talk about a case of sexual violence 
 and corruption. 
 
 However, away from the public consciousness, anonymous still thrived venturing into other operations, while some operations where American based 
