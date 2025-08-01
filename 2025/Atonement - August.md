@@ -1,5 +1,5 @@
 #Atonement
-A past of mixed emotions only to later finding peace with a decentralized movement.
+_A past of mixed emotions only to later finding peace with a decentralized movement._
 
 _"The whole idea was that there was no identity. Anyone could “take up arms” for a cause under the banner. So, it’s hard to trace the “Anonymous” 
 lineage. But essentially, the original groups that flew under that banner were truly talented and got shit done. But they all ended up getting 
