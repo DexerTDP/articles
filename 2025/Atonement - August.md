@@ -132,7 +132,7 @@ I was livid in every sense of the word. The illusion of thinking I had support w
 this can think that this sounds some juvenile shit. And to answer that, in some ways I can agree now. But back then, I didn't let anybody tell me shit. Like I 
 wasn't asking shit for in defense of me, I was asking for help for another and I was left with the crew like if it were an empty dead mall of wreckage. 
 
-So then the questioning and rage began, "what the fuck was I fighting for when no one is down to do shit?" among other statements
+So then the questioning and rage began, "what the fuck was I fighting for when no one is down to do shit when its called for?" among other statements
 
 I remember telling everybody in the sec that I was in, that I was done and that if that meant I have to leave the sec then so be it. As far as I was concerned, 
 fuck it, i'm out, I'll do the work that needs to be done on my own. I let it go with Vanessa, I was not about to make the same mistake here. 
@@ -169,7 +169,7 @@ who used the internet for fun.. or his defination of fun. We became somewhat fri
 
 Secondly, there were some active anons that were close to me that respected my decision to step down. In some instances, because the now defunct 
 GHC_Sec and some of its members went to localleaks, some anons were trusting enough to bring me to servers and group chats where info was being 
-tossed around left and right. I understood some did that but it felt weird because this as collaborative as I saw more so than when I was apart
+tossed around left and right. I understood why some did that but it felt weird because this as collaborative as I saw more so than when I was apart
 of it. I even appeared on the anon podcast Anonymous Bites Back with other anons to talk about world events around July 2021. I didn't say a whole 
 hell of alot but when I did, I tried to be sensible in certain topics. 
 
