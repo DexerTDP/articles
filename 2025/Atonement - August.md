@@ -122,8 +122,7 @@ full detail here of the backstory out of respect to those were affected by the e
 But what I can say is that the case in my view, fit the bill to fight back aganist what was being done and given the investment aspect I had. 
 In some ways, I went back in "half" capacity. The sec members were supportive but wanted a clear sum up of when things got critical to step in.
 When that happened, it was decided that for the whole op (as it was shaping to be one) had to be around the clock. Since in the sec, I was the only american in, 
-therefore help would be needed. A video was made with all the info ready to be dropped and start a campaign with, gathering other anons to come on board who 
-were interested.
+therefore help would be needed, multiple people, shifts, power and unity. A video was made with all the info ready to be dropped and start the complex campaign with, gathering other anons to come on board who were interested.
 
 What ended up happening? No answer. One or two even said it wasn't an op worth doing. 
 
@@ -131,7 +130,7 @@ When I tell you, I was upset. That's an understatement.
 
 I was livid in every sense of the word. The illusion of thinking I had support within the movement, gone with it. Now to many of you who maybe reading 
 this can think that this sounds some juvenile shit. And to answer that, in some ways I can agree now. But back then, I didn't let anybody tell me shit. Like I 
-wasn't asking shit for in defense of me, I was asking for help for another and I was left in the dust with the crew. 
+wasn't asking shit for in defense of me, I was asking for help for another and I was left with the crew like if it were an empty dead mall of wreckage. 
 
 So then the questioning and rage began, "what the fuck was I fighting for when no one is down to do shit?" among other statements
 
