@@ -62,11 +62,11 @@ However, on the screen, I started to notice a few things.
 
 Probably the first warning I had was when I heard the story of Vanessa Guillen
 
-"Authorities are searching for a missing soldier stationed at Fort Hood who hasn’t been seen since Wednesday. Vanessa Guillen, 20, was last seen in
+_"Authorities are searching for a missing soldier stationed at Fort Hood who hasn’t been seen since Wednesday. Vanessa Guillen, 20, was last seen in
 the parking lot of her barracks at the Fort Hood Army post in Texas on April 22 around 1 p.m., according to a news release from the United States 
 Army Criminal Investigation Command (CID). A $15,000 reward for information leading to Guillen’s whereabouts is being offered by CID, a tweet from 
 Fort Hood said Monday. Keys to her car and room were found in the armory where she was working earlier in the day along with her identification 
-card and wallet, the release said." -Artemis Moshtaghian, and Hollie Silverman. “US Army Offers $15,000 Reward for Information Leading to the 
+card and wallet, the release said."_ -Artemis Moshtaghian, and Hollie Silverman. “US Army Offers $15,000 Reward for Information Leading to the 
 Whereabouts of a Missing Fort Hood Soldier.” CNN, April 27, 2020. https://www.cnn.com/2020/04/27/us/missing-fort-hood-soldier-vanessa-guillen.
 
 That case moved me because to me, it was unheard of. As I heard of the details and the army branch doing very little to protect vanessa. Then I 
