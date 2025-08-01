@@ -116,8 +116,8 @@ However, the final straw was left me alienated and mixed emotions were found.
 <ins>Final Straw: Conflicted </ins>
 
 At this point I had started to focus more on opsafewinter given that it was already winter in the US and then, a case came across my view that was 
-targeting somebody I cared about. I'm talking a full blown malicious campaign to make their life hell with harassment that extended to their family 
-due to rejection. Given what I was reading, and then finding out that there were others who were targeted too by the same malicious actors. I won't go into 
+targeting somebody I cared about. I'm talking a full blown malicious campaign to make their life hell with harassment that extended to their family which included their kids
+due to rejection the suspect party had. Given what I was reading, and then finding out that there were others who were targeted too by the same malicious actors. I won't go into 
 full detail here of the backstory out of respect to my friend and other people that were affected. 
 
 But what I can say is that the case in my view, fit the bill to fight back aganist what was being done and given the investment aspect I had. 
