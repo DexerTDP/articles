@@ -1,4 +1,4 @@
-#Atonement
+# Atonement
 _A past of mixed emotions only to later finding peace with a decentralized movement._
 
 _"The whole idea was that there was no identity. Anyone could “take up arms” for a cause under the banner. So, it’s hard to trace the “Anonymous” 
