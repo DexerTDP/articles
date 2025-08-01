@@ -117,7 +117,7 @@ However, the final straw was left me alienated and mixed emotions were found.
 
 At this point I had started to focus more on opsafewinter given that it was already winter in the US and then, a case came across my view that was 
 targeting somebody I cared about. I'm talking a full blown malicious campaign to make their life hell with harassment that extended to their family which included their kids. Given what I was reading, seeing, being told, and then finding out that there were others who were targeted too apart from my friend by the same malicious actors. I was invested. I won't go into 
-full detail here of the backstory out of respect to my friend and other people that were affected by that. 
+full detail here of the backstory out of respect to those were affected by the events. 
 
 But what I can say is that the case in my view, fit the bill to fight back aganist what was being done and given the investment aspect I had. 
 In some ways, I went back in "half" capacity. The sec members were supportive but wanted a clear sum up of when things got critical to step in.
