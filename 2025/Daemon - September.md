@@ -66,12 +66,13 @@ But when its all said and done, you can look at it as this.
 - Telegram = Specialization 
 - IRC = Foundation 
 
-All 3 are meant to be studied and learned from. As my street mentor who I will name E (god rest his soul) told me when I was 14. 
+All 3 are meant to be studied and learned from because in that you learn how bots work inside and out. Which makes bots a very valuable tool. As my street mentor who I will name E (god rest his soul) told me when I was 14. 
 
 *"Never and I mean ever disregard anything because the thing you can consider insignificant now will bite you in the ass later."* 
 
 Take Care, <br>
 Dexer
+
 
 
 
