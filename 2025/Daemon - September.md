@@ -62,16 +62,16 @@ now wouldn't exist if it weren't for IRC. This is a fact to be honest. That said
 
 But when its all said and done, you can look at it as this. 
 
-Discord = Mainstream 
-Telegram = Specialization 
-IRC = Foundation 
+- Discord = Mainstream 
+- Telegram = Specialization 
+- IRC = Foundation 
 
 All 3 are meant to be studied and learned from. As my street mentor who I will name E (god rest his soul) told me when I was 14. 
 
 *"Never and I mean ever disregard anything because the thing you can consider insignificant now will bite you in the ass later."* 
 
-Take Care <br>
-
+Take Care, <br>
 Dexer
+
 
 
