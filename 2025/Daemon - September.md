@@ -49,7 +49,7 @@ friendly to create your own bots. Both also have good libaries and some oath2 su
 
 In their uses, Discord offers what I like to call the overall learning experience if you want to dip your toes into coding with its vast ecosystem and code a 
 whole roladex of bots for its uses. While telegram allows you to specialize. Which is why specialized bots like ddos bots or c2 thrive on telegram. This is why 
-you also see malware as a service or web stresser businessness on telegram alot.
+you also see malware as a service or web stresser business on telegram alot.
 
 Security and Privacy? Depends. Discord bots are more of internal server security and operate in a sandbox method and there's no database to search discord bots. 
 Telegram on the other hand, security is very broad. You can search the bot publicly and use it without joining a chat. It also can have access to groups or chats 
@@ -73,4 +73,5 @@ All 3 are meant to be studied and learned from. As my street mentor who I will n
 Take Care <br>
 
 Dexer
+
 
