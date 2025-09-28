@@ -18,7 +18,7 @@ However, it did get me to thinking why are tools so frowned upon. If in the end,
 
 Especially when bots is concerned. 
 
-_Preface of Automation_
+<ins>_Preface of Automation_</ins>
 
 That I remember the use of bots was during my IRC stint. The one I remember most was eggdrop. Eggdrop, the oldest bot within the IRC world and used for channel
 management, flood protection, etc. Supported TCL scripting (Tool command language) to expand basic functionality of the bot. 
@@ -33,7 +33,7 @@ even then.
 
 And to be honest, I didn't think I would really get myself involved in bots or coding them. That is until later on I would discover Discord and Telegram. 
 
-_Diametric - Discord and Telegram_
+<ins>_Diametric - Discord and Telegram_</ins>
 
 The easiest way to describe Discord and Telegram that they are diametric in terms of hacker culture and privacy: one is mainstream and public, the other 
 is semi-underground and mid secure. However both do allow you to code bots. 
@@ -55,7 +55,7 @@ Security and Privacy? Depends. Discord bots are more of internal server security
 Telegram on the other hand, security is very broad. You can search the bot publicly and use it without joining a chat. It also can have access to groups or chats 
 they are added to. which for privacy that can be a problem since it can expose private telegram groups to some vulnerablity. 
 
-_The trinity comparison?_
+<ins>_The trinity comparison?_</ins>
 
 The question would be if discord and telegram can ever be compared to IRC? Its tough because if it weren't for IRC then messenging chats or platforms that we have
 now wouldn't exist if it weren't for IRC. This is a fact to be honest. That said, the only comparison could be their use plus intergration and security.
@@ -73,3 +73,4 @@ All 3 are meant to be studied and learned from. As my street mentor who I will n
 Take Care <br>
 
 Dexer
+
