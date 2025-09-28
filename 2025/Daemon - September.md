@@ -1,5 +1,5 @@
 # Daemon
-Contentious and yet Valueable tool that severly underratted. 
+_Contentious and yet Valueable tool that severly underratted._ 
 
 Normally I lurk on twitter on most days just to stay on topic when it comes to infosec or hacking apart from traditional newsletters I get every now and again. 
 And usually I see some debate/slapfight, if you can call it that, which more or less goes like
@@ -71,4 +71,5 @@ All 3 are meant to be studied and learned from. As my street mentor who I will n
 *"Never and I mean ever disregard anything because the thing you can consider insignificant now will bite you in the ass later."* 
 
 Take Care <br>
+
 Dexer
