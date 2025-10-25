@@ -121,17 +121,17 @@ to way worse is using ai to create any photo be a nude and then distrubute it ar
 
 What follows next is a snippet of a conversation where a woman reached out to me about this topic as she wanted to learn on how it happens after an acquientence of hers suffered this attack.
 
--her: I would like to learn what to do if that happens to me.
--me: like sick fucks using ai for their material?
--her: Yes
--me: *posted a site that specialize ai deepfake porn site after research* That didn’t take long for me to find
--her: Ewewww
--me: I could run an experiment with a photo but then that’s grey area there, legal and all that.
--her: Hang on *she provided a full clothed picture* Fire away, My head is not it.
--me: *use the picture on the service* It did a nude alright.
--her: Jesus, I don't need to see. Was it something believable?
--me: Not a good one due to the blur affect but it’s there
--her: Uuuugh
+- her: I would like to learn what to do if that happens to me.
+- me: like sick fucks using ai for their material?
+- her: Yes
+- me: *posted a site that specialize ai deepfake porn site after research* That didn’t take long for me to find
+- her: Ewewww
+- me: I could run an experiment with a photo but then that’s grey area there, legal and all that.
+- her: Hang on *she provided a full clothed picture* Fire away, My head is not it.
+- me: *use the picture on the service* It did a nude alright.
+- her: Jesus, I don't need to see. Was it something believable?
+- me: Not a good one due to the blur affect but it’s there
+- her: Uuuugh
 
 There's services that allow a free sample that you can use, the quality may not be good until you pay for said service. 
 That said, the pay is not that expensive. The service I use, you just pay no less than $6 to produce a deepfake nude for you.
@@ -144,5 +144,6 @@ If it means you can still keep a sense of yourself.
 
 Take Care,<br>
 Dexer
+
 
 
