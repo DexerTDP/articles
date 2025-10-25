@@ -104,7 +104,7 @@ gawk at, might as well monitize the bitch.
 
 But as I mentioned before, they still deal with the image based abuse problem but unforunately there's another layer they haven't considered yet.
 
-<ins>_Enter: AI - The gift and Curse</ins>
+<ins>_Enter: AI - The gift and Curse_</ins>
 
 From openai's inception of chatgpt and other services that followed, ai has increasingly been implemented to become a part of human life and existence with intergations 
 like twitter with grok, google with gemini, etc. Some have took their tech and tried to do their own spin to things. When some in 4chan created an ai that put clothes back
@@ -144,6 +144,7 @@ If it means you can still keep a sense of yourself.
 
 Take Care,<br>
 Dexer
+
 
 
 
