@@ -40,7 +40,7 @@ or your partner can go haywire fast.
 
 But this is however one aspect of how tech and nudes intersect. And wildly the second time I intercepted with this concept it was filled in innuendo 
 
-<ins> 4 years later - Circulation </ins>
+<ins>_4 years later - Circulation_</ins>
 
 By this point, I had already retired from hacking but I was restless, working a very low paying sales job which then transition to e-commerce role. I was already 
 burned out so I decided to then started to look for work with what I got my degree on, which was graphic design. So I applied as normal until I came across an ad
@@ -85,7 +85,7 @@ isn't a federal law that attacks this problem but others have tried to put aware
 
 And despite this, years later, I would have an encounter with this topic yet again but in a different way. 
 
-<ins>Enter 2023 - Tracing Vulnerbity with a twist</ins>
+<ins>_Enter 2023 - Tracing Vulnerbity with a twist_</ins>
 
 At this point I was looking for work after ending a freelance contract. By this point, I had made my brief living taking small gigs whether being photo editing or
 taking pictures of models for e-commerce clothing companies. I was searching for work when I saw an ad of executive assistant. At that time I was kind of looking
@@ -104,7 +104,7 @@ gawk at, might as well monitize the bitch.
 
 But as I mentioned before, they still deal with the image based abuse problem but unforunately there's another layer they haven't considered yet.
 
-<ins>Enter AI</ins>
+<ins>_Enter: AI - The gift and Curse</ins>
 
 From openai's inception of chatgpt and other services that followed, ai has increasingly been implemented to become a part of human life and existence with intergations 
 like twitter with grok, google with gemini, etc. Some have took their tech and tried to do their own spin to things. When some in 4chan created an ai that put clothes back
@@ -116,7 +116,8 @@ Ai-Ai-OH, 12 Feb. 2024, medium.com/ai-ai-oh/people-are-digitally-adding-more-clo
 
 When I saw users use this to troll of workers, it was tad funny in my book. And frankly an innovative way to use ai. However with good, came the bad. 
 
-That bad was using ai to create any photo be a nude and then distrubute it around aka deepfake revenge porn
+One of the bad is and in some instances where women who work in the entertainment business, ai is often used by others in all sorts of ways to changing form. And in others 
+to way worse is using ai to create any photo be a nude and then distrubute it around aka deepfake revenge porn
 
 What follows next is a snippet of a conversation where a woman reached out to me about this topic as she wanted to learn on how it happens after an acquientence of hers suffered this attack.
 
@@ -136,11 +137,12 @@ There's services that allow a free sample that you can use, the quality may not 
 That said, the pay is not that expensive. The service I use, you just pay no less than $6 to produce a deepfake nude for you.
 
 It begs the question of the new techonology in how far can it be taken from your voice, your image and anything else in between. 
-How can one protect themselves from it all. 
+How can one protect themselves from it all.
 
 Andy warhol warned that everybody would get their 15 seconds of fame. Now a days, people strive to have even 15 mins of anonimity. 
 If it means you can still keep a sense of yourself. 
 
 Take Care,<br>
 Dexer
+
 
